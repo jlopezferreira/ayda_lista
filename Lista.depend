@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1684940977 source:c:\users\win10\sistemas\lista\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1684937968 c:\users\win10\sistemas\lista\lista.h
+
+1684940854 source:c:\users\win10\sistemas\lista\main.cpp
+	<iostream>
+	"Lista.h"
+
